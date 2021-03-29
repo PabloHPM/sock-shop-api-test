@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="bams-public" />
+      <option name="name" value="bams-public" />
+      <option name="url" value="https://bams-aws.refinitiv.com/artifactory/public.maven.global" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://bams-aws.refinitiv.com/artifactory/public.maven.global" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bams-releases" />
+      <option name="name" value="bams-releases" />
+      <option name="url" value="https://bams-aws.refinitiv.com/artifactory/grc-release.maven.cloud" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bams-binaries" />
+      <option name="name" value="bams-binaries" />
+      <option name="url" value="https://bams-aws.refinitiv.com/artifactory/grc-binaries.maven.cloud" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bams-snapshots" />
+      <option name="name" value="bams-snapshots" />
+      <option name="url" value="https://bams-aws.refinitiv.com/artifactory/grc-snapshot.maven.cloud" />
+    </remote-repository>
+  </component>
+</project>
