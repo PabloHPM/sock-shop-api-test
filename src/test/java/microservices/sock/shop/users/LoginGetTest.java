@@ -1,7 +1,6 @@
 package microservices.sock.shop.users;
 
 import api.services.users.LoginSpec;
-import io.restassured.http.Headers;
 import io.restassured.response.ValidatableResponse;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -12,8 +11,6 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.not;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.emptyOrNullString;
-import static org.hamcrest.Matchers.greaterThan;
-import static org.hamcrest.Matchers.notNullValue;
 
 public class LoginGetTest {
 
